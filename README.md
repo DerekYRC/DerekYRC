@@ -16,7 +16,7 @@
 我热爱开源热爱技术喜欢分享，是一名框架源码爱好者，熟悉以下框架原理及源码：
 
 - Spring/SpringBoot
-- Spring Cloud（服务注册和发现、负载均衡、Feign、API网关、流量控制、熔断降级等等）
+- Spring Cloud（服务注册和发现、负载均衡、Feign、API网关、流量控制、熔断降级、配置中心等等）
 - Netty
 - RocketMQ
 - Sentinel
@@ -26,6 +26,10 @@
 - [**mini-spring**](https://github.com/DerekYRC/mini-spring) 
 - [**mini-spring-cloud**](https://github.com/DerekYRC/mini-spring-cloud)
 - mini-nety 🚀 *coming soon*
+
+#### 🌱 我参与的开源项目: 
+- [**spring-cloud-tencent**](https://github.com/Tencent/spring-cloud-tencent)
+   > Spring Cloud Tencent 是腾讯开源的一站式微服务解决方案，实现了Spring Cloud 标准微服务 SPI，开发者可以基于 Spring Cloud Tencent 快速开发 Spring Cloud 云原生分布式应用。 
 
 
 <p>
