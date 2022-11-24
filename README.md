@@ -5,11 +5,10 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="180" height="180">
 </div>
 
-## 我是DerekYRC，目前在微众银行从事后端开发工作。
+## 欢迎来到我的GitHub主页，我是DerekYRC，目前在微众银行从事后端开发。
 [![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-15521077528-blue)](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-15521077528-blue)
 [![mail](https://img.shields.io/badge/mail-15521077528%40163.com-brightgreen)](mailto:15521077528@163.com)
 
-欢迎来到我的GitHub主页
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
@@ -34,10 +33,14 @@
 #### 🏆 Github Stats:
 
 <p>
-	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=DerekYRC&show_icons=true&hide_border=true" />
+	<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=DerekYRC&show_icons=true&hide_border=true" />
 
 
 </p>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DerekYRC/mini-spring,DerekYRC/mini-spring-cloud&type=Date)](https://star-history.com/#DerekYRC/mini-spring&DerekYRC/mini-spring-cloud&Date)
+
 
 <!--
 **DerekYRC/DerekYRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
