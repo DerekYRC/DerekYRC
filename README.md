@@ -5,7 +5,7 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="180" height="180">
 </div>
 
-## 欢迎来到我的GitHub主页，我是DerekYRC，目前在微众银行从事后端开发。
+## 欢迎来到我的GitHub主页，我是Derek，目前在微众银行从事后端开发。
 [![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-15521077528-blue)](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-15521077528-blue)
 [![mail](https://img.shields.io/badge/mail-15521077528%40163.com-brightgreen)](mailto:15521077528@163.com)
 
