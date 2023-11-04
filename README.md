@@ -14,7 +14,7 @@
 
 我热爱开源热爱技术喜欢分享，是一名框架源码爱好者，熟悉以下框架原理及源码：
 
-- Spring/SpringBoot
+- Spring/Spring Boot
 - Spring Cloud（服务注册和发现、负载均衡、Feign、API网关、流量控制、熔断降级、配置中心等等）
 - Netty
 - RocketMQ
