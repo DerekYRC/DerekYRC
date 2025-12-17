@@ -24,7 +24,7 @@
 #### 🌱 我的开源项目: 
 - [**mini-spring**](https://github.com/DerekYRC/mini-spring) 
 - [**mini-spring-cloud**](https://github.com/DerekYRC/mini-spring-cloud)
-- mini-netty 🚀 *coming soon*
+- [**mini-netty**](https://github.com/DerekYRC/mini-netty)
 
 #### 🌱 我参与的开源项目: 
 - [**spring-cloud-tencent**](https://github.com/Tencent/spring-cloud-tencent)
